@@ -56,7 +56,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Nicoleus/fbbrute
+git clone https://github.com/Alambebas/fbbrute
 cd fbbrute
 php fb.php
 fi
@@ -66,7 +66,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Nicoleus/Fb-Cracker-v.3
+git clone https://github.com/Hidupbebas/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
 python2 crack.py
 fi
@@ -86,7 +86,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Nicoleus/mbf
+git clone https://github.com/Gaulcuy/mbf
 cd mbf
 python2 MBF.py
 fi
@@ -116,7 +116,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Nicoleus/EmailVuln
+git clone https://github.com/Emotyuy/EmailVuln
 cd EmailVuln
 python2 vuln.py
 fi
@@ -126,7 +126,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Nicoleus/ProfileGuardFb
+git clone https://github.com/Ballang/ProfileGuardFb
 cd ProfileGuardFb
 php guard.php
 fi
@@ -136,7 +136,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Nicoleus/Report
+git clone https://github.com/Kamuitu/Report
 cd Report
 unzip Report.zip
 python2 Report.py
@@ -157,7 +157,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Nicoleus/InfoFB
+git clone https://github.com/Horass/InfoFB
 cd InfoFB
 pip2 install -r requirements.txt
 python2 info.py
@@ -169,7 +169,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 pip2 install mechanize
-git clone https://github.com/Nicoleus/Sitorus.git
+git clone https://github.com/HorasBang/Sitorus.git
 cd Botkomena
 python2 botkomena.py
 fi
@@ -179,7 +179,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Nicoleus/autolike
+git clone https://github.com/Horasito/autolike
 cd autolike
 php autolike.php
 fi
@@ -251,7 +251,7 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+echo $cy"Terima Kasih Sudah Pakai Tool Saya Bang"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
